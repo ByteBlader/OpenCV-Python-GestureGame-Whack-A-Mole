@@ -1,6 +1,6 @@
 # OpenCV Python 手势游戏：打地鼠
 ### 🐹 使用Python和OpenCV实现打地鼠的手势游戏 [English Docs](https://github.com/uliaxs0n/OpenCV-Python-GestureGame-Whack-A-Mole/blob/main/README.md)
-这是一个使用Python和OpenCV开发的有趣且互动的游戏，玩家课使用手势来玩家喻户晓的“打地鼠”游戏。游戏利用摄像头检测手部动作，并模拟敲打弹出的地鼠以获得积分。
+这是一个使用Python和OpenCV开发的有趣且互动的游戏，玩家使用手势来玩家喻户晓的“打地鼠”游戏。游戏利用摄像头检测手部动作，并模拟敲打弹出的地鼠以获得积分。
 ![Screenshot](https://pic.superbed.cc/item/666117dbfcada11d37d8d61a.jpg)
 
 ## 特点
