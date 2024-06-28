@@ -1,5 +1,5 @@
 # OpenCV Python GestureGame: Whack-A-Mole
-### 🐹 Python combined with OpenCV to implement Whack-A-Mole gesturegame [中文文档](https://github.com/uliaxs0n/OpenCV-Python-GestureGame-Whack-A-Mole/blob/main/README_CN.md)
+### 🐹 Python combined with OpenCV to implement Whack-A-Mole gesturegame [中文文档](https://github.com/ByteBlader/OpenCV-Python-GestureGame-Whack-A-Mole/blob/main/README_CN.md)
 This is a fun and interactive game developed using Python and OpenCV, where players use hand gestures to play a virtual version of the classic "Whack-A-Mole" game. The game utilizes the camera to detect hand movements and simulates the act of whacking moles as they pop up from their holes.
 ![Screenshot](https://pic.superbed.cc/item/666117dbfcada11d37d8d61a.jpg)
 
@@ -20,7 +20,7 @@ This is a fun and interactive game developed using Python and OpenCV, where play
 
 1. Clone the repository:
    ```
-   git clone https://github.com/uliaxs0n/OpenCV-Python-GestureGame-Whack-A-Mole.git
+   git clone https://github.com/ByteBlader/OpenCV-Python-GestureGame-Whack-A-Mole.git
    ```
 2. Install the required packages:
    ```
@@ -50,4 +50,4 @@ For bug reports, please create an issue.
 
 ## License
 
-This project is open-source and available under the [Apache-2.0 License](https://github.com/uliaxs0n/OpenCV-Python-GestureGame-Whack-A-Mole/blob/main/LICENSE).
+This project is open-source and available under the [Apache-2.0 License](https://github.com/ByteBlader/OpenCV-Python-GestureGame-Whack-A-Mole/blob/main/LICENSE).
